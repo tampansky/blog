@@ -1,19 +1,47 @@
 ---
-title: Mulai Menulis Artikel
-description: Mulai menulis artikel di artipedia, pertama pelajari format penulisan, mendaftar di github, dan fork repository.
-permalink: /docs/mulai-menulis-artikel/
+layout: news_item
+comments: true
+title: "Membuat Posting di Blog Jekyll / Github Pages"
+description: Membuat posting di blog jekyll sangatlah mudah, anda hanya perlu membuat file postingan notepad, Atom, dll kemudian upload ke github di folder post.
+date: "2018-02-19 20:48:09 -0500"
+author: artipedia
+categories: [Dasar, Tutorial]
 ---
 * TOC
 {:toc}
-## Contoh Cara Penulisan
+### Membuat Posting di Blog Jekyll
+Salah satu hal terbaik dalam blog Jekyll adalah Anda dapat mempublikasikan dan mengelola blog hanya dengan mengelola folder file teks di komputer Anda atau secara langsung di Github. 
+
+Untuk membuat posting baru, yang perlu Anda lakukan adalah membuat file di `_posts` direktori. File tersebut dapat dibuat di Github secara langsung, ataupun menggunakan Aplikasi yang biasa anda gunakan, seperti notepad, Atom, dll. 
+
+### Memberi Nama File
+Perlu dicatat file posting yang anda buat harus diberi nama sesuai dengan format berikut:
 ```
+YEAR-MONTH-DAY-title.MARKUP
+```
+1. YEAR   : diisi dengan tahun (empat angka)
+2. MONTH  : diisi dengan bulan (dua angka)
+3. Day    : diisi dengan tanggal (dua angka)
+4. Title  : diisi dengan judul posting
+5. Markup : diisi dengan .md atau .markdown (Merupakan ekstensi file yang mewakili format yang digunakan dalam file)
+
+Berikut ini adalah contoh dari nama file postingan yang valid:
+```
+2018-04-31-membuat-posting-diblog.md
+2018-04-31-membuat-posting-diblog.markdown
+```
+
+### Format Penulisan Posting
+
+```yaml
 ---
-layout: news_item
+layout: post
 title: "Judul Artikel"
 date: "2018-02-19"
 author: artipedia
 categories: [referensi]
 ---
+
 ## SubJudul
 lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum 
 lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum 
@@ -119,9 +147,3 @@ Untuk menambahkan <code>blockquote</code> tambahkan <code>></code> sebelum/pada 
 ```
 Hasilnya
 > Tes penulisan blockquote
-
-<nav class='main-nav'><ul>
-<li class="current">
-    <a href="https://github.com/ArtiPedia/ArtiPedia/new/master/docs/_posts/">Mulai</a>
-  </li></ul></nav>
-
