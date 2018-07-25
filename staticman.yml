@@ -1,6 +1,6 @@
 comments:
   allowedFields: ["name", "email", "url", "messages","replying_to"]
-  allowedOrigins: ["localhost", "artipedia.site"]
+  allowedOrigins: ["localhost", "blog.artipedia.site"]
   branch: "master"
   commitMessage: "Add Staticman data"
   filename: "entry{@timestamp}"
@@ -11,7 +11,7 @@ comments:
       options:
         format: "timestamp-seconds"
   moderation: true
-  name: "artipedia.site"
+  name: "blog.artipedia.site"
   path: "_data/comments/{options.slug}"
   requiredFields: ["name", "email", "messages"]
   transforms:
