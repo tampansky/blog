@@ -1,5 +1,5 @@
-name: Blog ArtiPedia - Tutorial Blogging 
-description: ArtiPedia merupakan website terbuka yang mengumpulkan berbagai informasi tutorial Blogging.
+name: Blog ArtiPedia - Blogging with Jekyll 
+description: Tutorial Blogging dengan jekyll bagi pemula dengan memanfaatkan hosting gratis dari Github.
 url: https://blog.artipedia.site
 repository: "ArtiPedia/blog"
 timezone: Asia/Jakarta
@@ -14,7 +14,7 @@ collections:
     permalink: "/:collection/:path/"
     output: true
   posts:
-    permalink: "/:title.html"
+    permalink: "/id/:title.html"
     output: true
   tutorials:
     output: true
