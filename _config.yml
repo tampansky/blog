@@ -1,7 +1,7 @@
-name: ArtiPedia - Pengertian, Definisi, Istilah dan Referensi
-description: ArtiPedia merupakan website terbuka yang mengumpulkan berbagai informasi seperti Pengertian, Definisi, Istilah, Referensi, Tutorial, Buku, RPP, dan Informasi lainnya.
-url: https://artipedia.site
-repository: "ArtiPedia/ArtiPedia"
+name: Blog ArtiPedia - Tutorial Blogging 
+description: ArtiPedia merupakan website terbuka yang mengumpulkan berbagai informasi tutorial Blogging.
+url: https://blog.artipedia.site
+repository: "ArtiPedia/blog"
 timezone: Asia/Jakarta
 twitter:
   username: artipedia243
@@ -14,7 +14,7 @@ collections:
     permalink: "/:collection/:path/"
     output: true
   posts:
-    permalink: "/wiki/:title.html"
+    permalink: "/:title.html"
     output: true
   tutorials:
     output: true
