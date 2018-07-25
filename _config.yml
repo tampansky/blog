@@ -7,7 +7,7 @@ twitter:
   username: artipedia243
 logo: "/img/logo-2x.png"
 image: {{page.image}}
-google_analytics_id: UA-115101359-3
+google_analytics_id: UA-115101359-11
 google_site_verification: C1hGxjtzZwOcieGwAnCwFYFX2eSEVxz_JWWiytICEEc
 collections:
   docs:
