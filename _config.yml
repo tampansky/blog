@@ -56,7 +56,7 @@ compress_html:
     envs: []
 paginate: 6
 paginate_path: /page/:num/
-staticmanUrl: https://api.staticman.net/v2/entry/ArtiPedia/ArtiPedia/master/comments
+staticmanUrl: https://api.staticman.net/v2/entry/ArtiPedia/blog/master/comments
 staticman:
   branch: "master"
 include: ['.htaccess']
