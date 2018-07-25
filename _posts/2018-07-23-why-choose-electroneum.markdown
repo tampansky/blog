@@ -6,7 +6,7 @@ description: Electroneum (ETN) has a huge market potential, why? because almost 
 date: "2018-07-11 12:48:09"
 image: electroneum.png
 author: artipedia
-categories: [Dasar, Tutorial,Blog,Widget,Blogspot]
+categories: [crypto,electroneum]
 ---
 * TOC
 {:toc}
