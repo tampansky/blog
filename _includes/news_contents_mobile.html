@@ -1,0 +1,11 @@
+<div class="docs-nav-mobile unit whole show-on-mobiles no-print">
+<select onchange="if (this.value) window.location.href=this.value">
+    <option value="">Pilih artikel…</option>
+    <option value="/wiki/">Home</option>
+    <optgroup label="wiki">
+      {% for post in site.posts %}
+      <option value="{{ post.url }}">{{ post.title }}</option>
+      {% endfor %}
+    </optgroup>
+  </select>
+</div>

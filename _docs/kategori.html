@@ -1,0 +1,25 @@
+---
+layout: page
+permalink: /kategori/
+title: Kategori
+description: Halaman ini berisi posting yang dikelompokkan kembali menjadi beberapa kategori, seperti Referensi, Administrasi, Buku, Pendidikan, dll.
+---
+
+Halaman ini berisi posting yang dikelompokkan berdasarkan kategori tertentu
+<div id="archives">
+{% for category in site.categories %}
+  <div class="archive-group">
+    {% capture category_name %}{{ category | first }}{% endcapture %}
+    <div id="#{{ category_name | slugize }}"></div>
+    <p></p>
+    
+    <h3 class="category-head"><i class="fa fa-tags" aria-hidden="true"></i> {{ category_name }}</h3>
+    <a name="{{ category_name | slugize }}"></a>
+    <ol class="arti">
+      {% for post in site.categories[category_name] %}
+          <li><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></li>
+       {% endfor %}
+       </ol>
+  </div>
+{% endfor %}
+</div>

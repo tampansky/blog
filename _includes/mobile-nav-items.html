@@ -1,0 +1,17 @@
+<ul>
+  <li class="{% if page.overview %}current{% endif %}">
+    <a href="/" title="Halaman Utama">Home</a>
+  </li>
+  <li class="{% if page.url contains '/docs/' %}current{% endif %}">
+    <a href="/docs/sambutan/" title="Sambutan">Panduan</a>
+  </li>
+  <li class="{% if page.author %}current{% endif %}">
+    <a title="Wiki Terbaru" href="/wiki/">Wiki</a>
+  </li>
+  <li class="{% if page.url contains '/docs/' %}current{% endif %}">
+    <a title="Mulai Menulis Artikel" href="/docs/mulai-menulis-artikel/">Mulai</a>
+  </li>
+  <li>
+    <a href="/docs/daftar-isi/" title="Sitemap" id="toggle-nav">Sitemap</a>
+  </li>
+</ul>
