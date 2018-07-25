@@ -1,12 +1,12 @@
 ---
 layout: news_item
 comments: true
-title: "Why Choose Electroneum"
-description: Electroneum (ETN) has a huge market potential, why? because almost everyone has smartphones with electroneum applications people can obtain and transact using electroneum with ease and low cost
-date: "2018-07-23 12:48:09 "
-image: electroneum.png
+title: "Why Choose Electroneum?"
+description: Electroneum (ETN) has a huge market potential, why? because almost everyone has smartphones with electroneum applications people can obtain and transact using electroneum with ease and low cost.
+date: "2018-07-11 12:48:09"
+image: memasangwidgetcryptocurrency.png
 author: artipedia
-categories: [cryptocurrency,#ETN242]
+categories: [Dasar, Tutorial,Blog,Widget,Blogspot]
 ---
 * TOC
 {:toc}

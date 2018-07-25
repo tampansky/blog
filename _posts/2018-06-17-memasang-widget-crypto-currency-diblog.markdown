@@ -3,7 +3,7 @@ layout: news_item
 comments: true
 title: "Memasang Widget Cryptocurrency di Blog"
 description: Cara Memasang Widget Cryptocurrency di Blog, Bitcoin Widget, ETH, BCH dan cryptocurrency lainnya.
-date: "2018-07-11 12:48:09 "
+date: "2018-07-11 12:48:09"
 image: memasangwidgetcryptocurrency.png
 author: artipedia
 categories: [Dasar, Tutorial,Blog,Widget,Blogspot]
