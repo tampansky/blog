@@ -7,70 +7,38 @@ overview: true
 <section class="intro">
   <div class="grid">
     <div class="unit whole center-on-mobiles">
-      <p class="first">Jadilah Kontributor di ArtiPedia, Tuangkan pemikiran anda!</p>
+      <p class="first">Tutorial Membuat Blog di Github bagi Pemula!</p>
     </div>
   </div>
 </section>
 <section class="features">
   <div class="grid">
     <div class="unit one-third">
-      <h2>Menjadi Kontributor</h2>
+      <h2>Sederhana</h2>
       <p>
-        Bagaimana cara menulis artikel disini? Bagaimana <em>Menjadi Kontributor</em>.
+        Tidak ada basis data, moderasi komentar, atau pembaruan yang mengganggu dan harus dipasang — hanya konten Anda ..
       </p>
-      <a href="/docs/kontributor/" title="menjadi kontributor">Menjadi Kontributor &rarr;</a>
+     
     </div>
     <div class="unit one-third">
-      <h2>Format Penulisan</h2>
-      <p>Pelajari format penulisan artikel di Artipedia agar memudahkan anda dalam menulis </p><a href="/docs/format-penulisan/">Format Penulisan &rarr;</a>
+      <h2>Statis</h2>
+      <p>Dengan menggunakan Markdown, Liquid, HTML & CSS. Situs satis anda siap untuk dipublikasikan.</a>
     </div>
     <div class="unit one-third">
-      <h2>Kode Etik</h2>
+      <h2>Keuntungan</h2>
       <p>
-        Pelajari hal-hal yang harus diperhatikan oleh anda dalam berkontribusi di ArtiPedia.
+        Hosting di Github gratis selamanya, anda tidak perlu mengeluarkan uang tambahan untuk membeli hosting..
       </p>
-      <a href="/docs/kode-etik/" title="Kode Etik">Baca Selengkapnya &rarr;</a>
+      
     </div>
     <div class="clear"></div>
   </div>
 </section>
 <section class="quickstart">
-  <div class="grid">
-    <div class="unit golden-small center-on-mobiles">
-      <h3>Menulis artikel <em>dengan &nbsp;mudah</em>.</h3>
-    </div>
-    <div class="unit golden-large code">
-      <p class="title">Informasi</p>
-      <div class="shell">
-        <p class="line">
-          <span class="path">1</span>
-      
-          <span class="command">Jadilah kontributor</span>    <span class="prompt">!</span>
-        </p>
-        <p class="line">
-          <span class="path">2</span>
-          
-          <span class="command">Pelajari format penulisan</span><span class="prompt">!</span>
-        </p>
-        <p class="line">
-          <span class="path">3</span>
-                    <span class="command">Mulai membuat artikel</span><span class="prompt">!</span>
-        </p>
-        <p class="line">
-          <span class="path">4</span>
-                   <span class="command">Mulai memperbaiki artikel</span><span class="prompt">!</span>
-        </p>
-        <p class="line">
-          <span class="output">Bermanfaat</span>
-        </p>
-      </div>
-    </div>
-    <div class="clear"></div>
-  </div>
+<h2 class="text-center"><i>Tutorial Blog terbaru?</i></h2>
 </section>
     
-<h2 class="text-center"><i>Apa yang terbaru?</i></h2>
-
+ 
 {% endif %}
 <section class="features">
   <div class="grid mainbox">
@@ -82,11 +50,11 @@ overview: true
   "@type": "NewsArticle",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://artipedia.site/article"
+    "@id": "https://blog.artipedia.site/article"
   },
   "headline": "{{ post.title }}",
   "image": [
-    "https://artipedia.site/img/thumb/{{ post.image }}"
+    "https://artipedia.site/img/{{ post.image }}"
     ],
   "datePublished": "{{ post.date }}",
   "dateModified": "{{ post.date }}",
