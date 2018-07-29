@@ -10,6 +10,7 @@ categories: [Dasar, Tutorial]
 ---
 * TOC
 {:toc}
+
 ## Mengapa tombol sosial share sangat penting
 
 Jika Anda membaca banyak melalui internet, maka Anda tahu betapa sulitnya berbagi artikel dengan teman Anda jika website yang anda kunjungi tidak memiliki tombol sosial share. Sehingga dengan terpaksa anda harus menyalinnya secara manual, membuka akun email Anda, dan mengetikan setiap detail lalu mengirimnya.
@@ -18,14 +19,11 @@ Jika Anda membaca banyak melalui internet, maka Anda tahu betapa sulitnya berbag
 
 1. Buat file baru di folder `_include` berinama file dengan
 
-```
-social-buttons.html
-
-```
+`social-buttons.html`
 
 2. Isikan kode di bawah ini kemudian simpan.
 
-```html
+``html
 <div class="social-buttons">
 <a href="https://facebook.com/sharer.php?u={{ site.url }}{{ page.url }}" rel="nofollow" target="_blank" title="Share on Facebook" class="z-2 z-h social fb" onclick="window.open(this.href, 'mywin', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"><i class="fa fa-facebook-square fa-2x" aria-hidden="true"></i></a>
 <a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ page.url }}&via=bootyocean18" rel="nofollow" target="_blank" title="Share on Twitter" class="z-2 z-h social tw" onclick="window.open(this.href, 'mywin','left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"><i class="fa fa-twitter-square fa-2x" aria-hidden="true"></i></a>
@@ -35,7 +33,7 @@ social-buttons.html
 <a href="http://www.stumbleupon.com/submit?url={{ site.url }}{{ page.url }}&title={{ page.title }}" rel="nofollow" target="_blank" title="Stumble This Page" class="z-2 z-h social su" onclick="window.open(this.href, 'mywin','left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"><i class="fa fa-stumbleupon-circle fa-2x" aria-hidden="true"></i></a>
 </div>
 
-```
+``
 
 
 3. Cari folder `_sass` kemudian buat file baru
