@@ -23,7 +23,6 @@ social-buttons.html
 
 2. Isikan kode di bawah ini kemudian simpan.
 
-{% raw %}
 ```html
 <div class="social-buttons">
 <a href="https://facebook.com/sharer.php?u={{ site.url }}{{ page.url }}" rel="nofollow" target="_blank" title="Share on Facebook" class="z-2 z-h social fb" onclick="window.open(this.href, 'mywin', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"><i class="fa fa-facebook-square fa-2x" aria-hidden="true"></i></a>
@@ -34,14 +33,14 @@ social-buttons.html
 <a href="http://www.stumbleupon.com/submit?url={{ site.url }}{{ page.url }}&title={{ page.title }}" rel="nofollow" target="_blank" title="Stumble This Page" class="z-2 z-h social su" onclick="window.open(this.href, 'mywin','left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"><i class="fa fa-stumbleupon-circle fa-2x" aria-hidden="true"></i></a>
 </div>
 ```
-{% endraw %}
+
 
 3. Cari folder `_sass` kemudian buat file baru
 4. Berinama file tersebut dengan  nama `_social-buttons.scss`
 5. Copy Code CSS di bawah ini kemudian pastekan didalamnya
 6. Simpan
 
-{% raw %}
+
 ```css
 .social-buttons {
   text-align: center;
@@ -80,18 +79,18 @@ color: #eb4924;
   }
 }
 ```
-{% endraw %}
+
 
 7. Cari folder css kemudian buka file <code>screen.scss</code>  tambahkan kode  <code>@import "social-buttons";</code> di bagian paling bawah kemudian simpan.
 
 8. Cari folder <code>_layout</code> kemudian buka file dengan <code>posts.html</code> (layout halaman posting blog anda) nama file sesuai dengan template anda.
 
 9. Tempatkan kode di bawah ini 
-{% raw %}
+
 ```
 {% include social-buttons.html %}
 ```
-{% endraw %}  
+
 
 Dibagian dimana pun Anda ingin tombol sosial share muncul.
 
