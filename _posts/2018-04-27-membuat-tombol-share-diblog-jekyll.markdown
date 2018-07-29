@@ -15,10 +15,12 @@ categories: [Dasar, Tutorial]
 Jika Anda membaca banyak melalui internet, maka Anda tahu betapa sulitnya berbagi artikel dengan teman Anda jika website yang anda kunjungi tidak memiliki tombol sosial share. Sehingga dengan terpaksa anda harus menyalinnya secara manual, membuka akun email Anda, dan mengetikan setiap detail lalu mengirimnya.
 
 ## Bagaimana Cara Membuat Tombol Social Share?
+
 1. Buat file baru di folder `_include` berinama file dengan
 
 ```
 social-buttons.html
+
 ```
 
 2. Isikan kode di bawah ini kemudian simpan.
@@ -32,6 +34,7 @@ social-buttons.html
 <a href="http://www.reddit.com/submit?url={{ site.url }}{{ page.url }}&title={{ page.title }}" rel="nofollow" target="_blank" title="Share On Reddit" class="z-2 z-h social rd" onclick="window.open(this.href, 'mywin','left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"><i class="fa fa-reddit-square fa-2x" aria-hidden="true"></i></a>
 <a href="http://www.stumbleupon.com/submit?url={{ site.url }}{{ page.url }}&title={{ page.title }}" rel="nofollow" target="_blank" title="Stumble This Page" class="z-2 z-h social su" onclick="window.open(this.href, 'mywin','left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"><i class="fa fa-stumbleupon-circle fa-2x" aria-hidden="true"></i></a>
 </div>
+
 ```
 
 
@@ -78,6 +81,7 @@ color: #eb4924;
  &:hover{color: #222}
   }
 }
+
 ```
 
 
@@ -89,6 +93,7 @@ color: #eb4924;
 
 ```
 {% include social-buttons.html %}
+
 ```
 
 
