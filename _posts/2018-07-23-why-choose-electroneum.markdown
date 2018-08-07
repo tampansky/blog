@@ -13,14 +13,16 @@ categories: [crypto,electroneum]
 
 
 ## What is Electroneum (ETN)
-Electroneum is a digital currency (* cryptocurrency *) that can be obtained easily, without having to use hardware and without codes. We can mine electroneum using our smartphone.
+Electroneum is a digital currency (*cryptocurrency*) that can be obtained easily, without having to use hardware and without codes. We can mine electroneum using our smartphone.
 
 Electroneum (and other cryptocurrencies) are decentralized, meaning they are controlled and regulated by computer networks around the world that have no affiliation with each other. Therefore, no person, company, bank or government can control Electroneum or make more.
 
 Because Electroneum is held digitally, you can send money to anyone in the world with Electroneum wallet. No bank arranges the spend so there is no long waiting time or high transfer fees required.
 
-## Why Choose Electroneum (ETN)
+## Why Choose Electroneum (ETN) #ETN242 #ELECTRONEUM
 Electroneum (ETN) has a huge market potential, why? because almost everyone has smartphones with electroneum applications people can obtain and transact using electroneum with ease and low cost. Therefore I am sure that in the future Electroneum (ETN) can develop.
+
+
 
 ![Electroneum Competition]({{ "/img/etn242.jpg" | absolute_url }})
 
