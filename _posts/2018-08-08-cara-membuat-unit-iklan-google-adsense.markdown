@@ -11,31 +11,31 @@ categories: [tips,adsense]
 * TOC
 {:toc}
 
-Jika Anda baru mulai memonetisasi situs web Anda dan bertanya-tanya bagaimana cara menggunakan AdSense , Anda datang ke tempat yang tepat. Tutorial berikut berisi penjelasan mendetail tentang cara membuat spanduk AdSense baru untuk menggunakannya di situs web Anda. Ini juga berisi penjelasan terperinci dan praktik terbaik untuk semua opsi. Mari kita mulai!
+Jika Anda baru mulai memonetisasi situs web Anda dan bertanya-tanya bagaimana cara menggunakan **AdSense**, Anda datang ke tempat yang tepat. Tutorial berikut berisi penjelasan mendetail tentang cara membuat spanduk AdSense baru untuk menggunakannya di situs web Anda. Ini juga berisi penjelasan terperinci dan praktik terbaik untuk semua opsi. Mari kita mulai!
 
 ### Buat unit iklan baru di Google AdSense
-Langkah pertama untuk membuat unit iklan baru di akun AdSense Anda adalah dengan mengeklik tombol Unit iklan baru yang terletak di bawah tab Iklan saya di halaman Unit iklan
+Langkah pertama untuk **membuat unit iklan baru di akun AdSense** Anda adalah dengan mengeklik tombol Unit iklan baru yang terletak di bawah tab Iklan saya di halaman Unit iklan
 
 ![Membuat unit iklan baru]({{ "/img/adsense.png" | absolute_url }})
 
 Kemudian Anda harus memberi nama pada unit iklan Anda. Saya sarankan agar nama membantu Anda mengingat dengan tepat apa  unit iklan ini dan di mana Anda menempatkannya di situs web Anda. 
 
 Contohnya saya menggunakan nama situs dan posisi seperti : ArtiPedia Ads Sidebar.
-Penamaan unit iklan dengan nama tersebut membantu saya lebih mudah mengetahui unit iklan mana yang ditempatkan di website dan dibagian mana-mana nya. 
+**Penamaan unit iklan** dengan nama tersebut membantu saya lebih mudah mengetahui unit iklan mana yang ditempatkan di website dan dibagian mana-mana nya. 
 
 ![Memberi nama unit iklan adsense]({{ "/img/adsense2.png" | absolute_url }})
 
 ### Pilih ukuran iklan yang tepat
-Langkah selanjutnya adalah memilih ukuran iklan yang sesuai. Pilih salah satu opsi berikut: Disarankan , Spanduk horizontal , Spanduk vertikal , Persegi panjang , Responsif , Ukuran khusus , atau Iklan tautan.
+Langkah selanjutnya adalah memilih ukuran iklan yang sesuai. Pilih salah satu opsi berikut: *Disarankan , Spanduk horizontal , Spanduk vertikal , Persegi panjang , Responsif , Ukuran khusus , atau Iklan tautan*.
 
 ![Memilih ukuran iklan adsense]({{ "/img/adsense3.png" | absolute_url }})
 
-* Disarankan - mencantumkan beberapa ukuran iklan yang direkomendasikan oleh AdSense. Ini adalah kumpulan ukuran iklan yang berpotensi memberi Anda hasil maksimal.
+* Disarankan - mencantumkan beberapa ukuran iklan yang direkomendasikan oleh *AdSense*. Ini adalah kumpulan ukuran iklan yang berpotensi memberi Anda hasil maksimal.
 * Horizontal Banner - Ukuran yang disarankan dalam grup ini adalah Leaderboard and Large Mobile Banner.
 
 ![Horizontal Banner]({{ "/img/adsense4.png" | absolute_url }})
 
-* Spanduk Vertikal - spanduk yang disarankan dalam grup ini adalah Large Skyscraper.
+* Vertical Banner - Vertical Banner yang disarankan dalam grup ini adalah Large Skyscraper.
 
 ![Vertical Banner]({{ "/img/adsense5.png" | absolute_url }})
 
