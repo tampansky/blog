@@ -18,7 +18,9 @@ Langkah pertama untuk membuat unit iklan baru di akun AdSense Anda adalah dengan
 
 ![Membuat unit iklan baru]({{ "/img/adsense.png" | absolute_url }})
 
-Kemudian Anda harus memberi nama pada unit iklan Anda. Saya sarankan agar nama membantu Anda mengingat dengan tepat apa  unit iklan ini dan di mana Anda menempatkannya di situs web Anda. Contohnya saya menggunakan nama situs dan posisi seperti : ArtiPedia Ads Sidebar.
+Kemudian Anda harus memberi nama pada unit iklan Anda. Saya sarankan agar nama membantu Anda mengingat dengan tepat apa  unit iklan ini dan di mana Anda menempatkannya di situs web Anda. 
+
+Contohnya saya menggunakan nama situs dan posisi seperti : ArtiPedia Ads Sidebar.
 Penamaan unit iklan dengan nama tersebut membantu saya lebih mudah mengetahui unit iklan mana yang ditempatkan di website dan dibagian mana-mana nya. 
 
 ![Memberi nama unit iklan adsense]({{ "/img/adsense2.png" | absolute_url }})
