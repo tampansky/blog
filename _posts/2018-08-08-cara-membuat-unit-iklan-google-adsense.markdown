@@ -13,7 +13,7 @@ categories: [tips,adsense]
 
 Jika Anda baru mulai memonetisasi situs web Anda dan bertanya-tanya bagaimana cara menggunakan AdSense , Anda datang ke tempat yang tepat. Tutorial berikut berisi penjelasan mendetail tentang cara membuat spanduk AdSense baru untuk menggunakannya di situs web Anda. Ini juga berisi penjelasan terperinci dan praktik terbaik untuk semua opsi. Mari kita mulai!
 
-### 1. Buat unit iklan baru di Google AdSense
+### Buat unit iklan baru di Google AdSense
 Langkah pertama untuk membuat unit iklan baru di akun AdSense Anda adalah dengan mengeklik tombol Unit iklan baru yang terletak di bawah tab Iklan saya di halaman Unit iklan
 
 ![Membuat unit iklan baru]({{ "/img/adsense.png" | absolute_url }})
@@ -23,7 +23,7 @@ Penamaan unit iklan dengan nama tersebut membantu saya lebih mudah mengetahui un
 
 ![Memberi nama unit iklan adsense]({{ "/img/adsense2.png" | absolute_url }})
 
-### 2. Pilih ukuran iklan yang tepat
+### Pilih ukuran iklan yang tepat
 Langkah selanjutnya adalah memilih ukuran iklan yang sesuai. Pilih salah satu opsi berikut: Disarankan , Spanduk horizontal , Spanduk vertikal , Persegi panjang , Responsif , Ukuran khusus , atau Iklan tautan.
 
 ![Memilih ukuran iklan adsense]({{ "/img/adsense3.png" | absolute_url }})
@@ -51,7 +51,7 @@ Langkah selanjutnya adalah memilih ukuran iklan yang sesuai. Pilih salah satu op
 
 ![Custom Size]({{ "/img/adsense8.png" | absolute_url }})
 
-### 3. Pilih jenis iklan
+### Pilih jenis iklan
 Langkah ketiga adalah memilih jenis iklan yang sesuai. Ada dua jenis iklan yang dapat muncul di situs web Anda: tampilan dan iklan teks. Anda dapat memilih salah satu opsi berikut:
 
 1. Iklan teks & bergambar - rekomendasinya adalah untuk memilih opsi ini sehingga kedua jenis iklan dapat muncul di situs web Anda.
@@ -65,7 +65,7 @@ Untuk disetujui, situs web Anda harus memenuhi persyaratan minimum untuk volume 
 
 * Jika Anda memilih Iklan Tautan pada langkah sebelumnya, jenis iklan akan secara otomatis disetel ke hanya iklan Tautan .
 
-### 4. Cara mengatur Gaya iklan teks
+### Cara mengatur Gaya iklan teks
 Langkah selanjutnya memungkinkan Anda untuk mengatur tampilan iklan teks di situs web Anda.
 
 Jika Anda baru menggunakan AdSense, saya akan menyarankan untuk tidak menghabiskan terlalu banyak waktu untuk melakukan pengoptimalan berlebihan di sini dan memilih untuk membuat tes terpisah dari berbagai tata letak nantinya.
@@ -80,7 +80,7 @@ Di bagian Gaya iklan teks Anda dapat:
 
 ![Custom]({{ "/img/adsense10.png" | absolute_url }})
 
-### 5. Saluran khusus
+### Saluran khusus
 Dengan saluran khusus Anda dapat mengelompokkan unit iklan di situs web Anda. Misalnya Anda dapat membuat grup persegi panjang menengah atau satu untuk unit iklan yang Anda jalankan hanya di perangkat seluler atau desktop.
 
 Anda juga dapat membuat grup unit iklan yang terintegrasi pada beberapa lokasi tertentu di situs web Anda. Dengan menggunakan saluran khusus, Anda dapat dengan mudah melacak kinerja grup iklan ini. Misalnya, nanti Anda dapat memeriksa berapa banyak yang Anda hasilkan dari iklan yang terintegrasi pada versi seluler atau desktop situs web Anda, jika Anda menggunakan unit iklan yang berbeda pada mereka.
@@ -91,7 +91,7 @@ Saat Anda kemudian membuat unit iklan baru yang ingin Anda tempatkan di grup yan
 
 ![Saluran Khusus]({{ "/img/adsense11.png" | absolute_url }})
 
-### 6. Menggunakan iklan cadangan
+### Menggunakan iklan cadangan
 Di bagian Iklan cadangan, Anda dapat menentukan apa yang seharusnya ditampilkan di situs web Anda jika tidak ada iklan bertarget yang tersedia. Dengan cara ini Anda akan memastikan bahwa ruang iklan Anda selalu digunakan secara efisien.
 
 Catatan: AdSense memiliki rasio pengisian sangat dekat dengan 100%, jadi dalam banyak kasus, memasukkan banyak pekerjaan ke dalam opsi ini tidak sepadan.
@@ -113,7 +113,7 @@ Anda dapat menggunakan halaman HTML sebagai iklan cadangan. Opsi ini sangat berg
 
 ![Backup Ads]({{ "/img/adsense14.png" | absolute_url }})
 
-### 7. Dapatkan kode
+### Dapatkan kode
 Langkah terakhir dalam akun AdSense Anda adalah membuat kode iklan. Setelah memilih opsi seperti yang dijelaskan di atas, Anda perlu mengklik tombol Simpan dan dapatkan kode :
 
 ![Simpan dan Dapatkan Kode]({{ "/img/adsense15.png" | absolute_url }})
