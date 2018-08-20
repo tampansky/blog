@@ -21,7 +21,7 @@ Saya ingin Anda meluangkan waktu untuk membaca posting ini secara menyeluruh, ja
 
 Siap membuat blog Anda hari ini? Baiklah, ayo kita lanjutkan pembahasannya.
 
-## Langkah 1: Pilih Platform Blogging yang Tepat (Petunjuk Petunjuk: Gunakan WordPress)
+## Langkah 1: Pilih Platform Blogging yang Tepat
 Sebelum Anda bahkan mulai khawatir tentang bagaimana tampilan blog Anda, Anda harus memilih platform blog Anda.
 
 Ada banyak untuk dipilih. Anda dapat membuat blog dengan berbagai platform blog, seperti WordPress, Tumblr, Blogger, dan banyak lagi...
@@ -37,7 +37,7 @@ Untuk menyiapkan blog yang dihosting sendiri dengan nama domain Anda sendiri, An
 
 **Nama Domain** - Ini akan menjadi alamat blog pribadi Anda, url/alamat dimana orang-orang akan menemukan artikel Anda yang mengagumkan. Misalnya, domain Artipedia adalah Artipedia.site.
 
-Biaya nama domain harganya kurang lebih 120 ribu / tahun, tetapi jika Anda membeli hosting, provider tertentu menggratiskan domain seumur hidup selama anda berlangganan hosting di provider tersebut. 
+Biaya nama domain harganya kurang lebih 120 ribu/tahun, tetapi jika Anda membeli hosting, provider tertentu menggratiskan domain seumur hidup selama anda berlangganan hosting di provider tersebut. 
 
 **Web Hosting** - Ini akan menjadi rumah dari alamat blog Anda dan konten yang ada di blog. Tanpa hosting web, Anda tidak akan dapat menggunakan domain Anda. Anggap saja sebagai hard drive komputer yang menyimpan semua konten Anda di blog Anda (gambar, posting blog dan sebagainya).
 
@@ -51,15 +51,18 @@ Mereka semua menawarkan layanan serupa (nama domain + hosting) dengan harga yang
 
 Anda melakukan penelitian untuk mempersempit daftar ke satu-satunya layanan yang dapat Anda pertimbangkan untuk digunakan di blog pertama Anda.
 
-Banyak paket promo dengan hosting murah di Indonesia, salah satu yang terbaik menurut saya adalah dewaweb.com. Kenapa? karena saya sendiri menggunakan hosting dari dewaweb untuk web saya yang lainnya (https://livecointrackers.com dan https://www.livecoinupdate.com) dan menurut saya sangat memuaskan dan murah, Paket Hunter Cloud Hosting hanya 360.000,- / Tahun.
+Banyak paket promo dengan hosting murah di Indonesia, salah satu yang terbaik menurut saya adalah [dewaweb.com](https://client.dewaweb.com/aff.php?aff=26186 "Dewa Web"). Kenapa? karena saya sendiri menggunakan hosting dari dewaweb untuk web saya yang lainnya ([Live CoinTrackers](https://livecointrackers.com) dan [Live Coin Update](https://www.livecoinupdate.com)) dan menurut saya sangat memuaskan dan murah, Paket Hunter Cloud Hosting hanya 360.000,- / Tahun.
 
 Ini adalah investasi yang relatif kecil, namun sangat penting untuk kesuksesan blogging jangka panjang Anda.
 
 Dewaweb memiliki kinerja yang baik, mudah digunakan, dan itu benar-benar pilihan terbaik untuk pemula seperti kita.
 
+![Dewaweb]({{ "/img/dewaweb-affiliate-banner-slogan-728x90px.gif" | absolute_url }} "Dewaweb")
+
 Selain itu, Dewaweb adalah salah satu dari beberapa web host yang sekarang menawarkan Sertifikat SSL Gratis. Ini tidak hanya menambah kepercayaan dengan Google, tetapi dengan pengunjung situs Anda juga! 
 
 Dengan Sertifikat SSL, nama domain Anda akan dimulai dengan HTTPS dan ditampilkan sebagai web yang Aman dengan gembok hijau di samping URL di browser seperti ini: 
-![https]({{ "/img/artipedia-https.png"| absolute_url }})
+
+![https]({{ "/img/artipedia-https.png" | absolute_url }} "https")
 
 Pada dasarnya, dengan HTTPS situs web Anda akan terlihat sah dan terpercaya.
