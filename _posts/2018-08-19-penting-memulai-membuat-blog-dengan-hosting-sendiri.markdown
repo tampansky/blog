@@ -21,7 +21,7 @@ Saya ingin Anda meluangkan waktu untuk membaca posting ini secara menyeluruh, ja
 
 Siap membuat blog Anda hari ini? Baiklah, ayo kita lanjutkan pembahasannya.
 
-## Langkah 1: Pilih Platform Blogging yang Tepat
+## Pilih Platform Blogging yang Tepat
 Sebelum Anda bahkan mulai khawatir tentang bagaimana tampilan blog Anda, Anda harus memilih platform blog Anda.
 
 Ada banyak untuk dipilih. Anda dapat membuat blog dengan berbagai platform blog, seperti WordPress, Tumblr, Blogger, dan banyak lagi...
