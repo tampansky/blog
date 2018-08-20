@@ -6,7 +6,7 @@ description: Memulai membuat blog dengan hosting sendiri mengekspresikan diri An
 date: "2018-08-19 12:48:09"
 image: membuat-blog.jpg
 author: artipedia
-categories: [tips,blog]
+categories: [dasar,tutorial,tips]
 ---
 * TOC
 {:toc}
@@ -35,7 +35,7 @@ Sekarang ke bagian yang menarik!
 
 Untuk menyiapkan blog yang dihosting sendiri dengan nama domain Anda sendiri, Anda memerlukan dua hal:
 
-**Nama Domain** - Ini akan menjadi alamat blog pribadi Anda, url/alamat dimana orang-orang akan menemukan artikel Anda yang mengagumkan. Misalnya, domain Artipedia adalah Artipedia.site.
+**Nama Domain** - Ini akan menjadi alamat blog pribadi Anda, url/alamat dimana orang-orang akan menemukan artikel Anda yang mengagumkan. Misalnya, domain [Artipedia](https://artipedia.site "ArtiPedia") adalah Artipedia.site.
 
 Biaya nama domain harganya kurang lebih 120 ribu/tahun, tetapi jika Anda membeli hosting, provider tertentu menggratiskan domain seumur hidup selama anda berlangganan hosting di provider tersebut. 
 
