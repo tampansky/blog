@@ -51,7 +51,7 @@ Mereka semua menawarkan layanan serupa (nama domain + hosting) dengan harga yang
 
 Anda melakukan penelitian untuk mempersempit daftar ke satu-satunya layanan yang dapat Anda pertimbangkan untuk digunakan di blog pertama Anda.
 
-Banyak paket promo dengan hosting murah di Indonesia, salah satu yang terbaik menurut saya adalah [dewaweb.com](https://client.dewaweb.com/aff.php?aff=26186 "Dewa Web"). Kenapa? karena saya sendiri menggunakan hosting dari dewaweb untuk web saya yang lainnya ([Live CoinTrackers](https://livecointrackers.com) dan [Live Coin Update](https://www.livecoinupdate.com)) dan menurut saya sangat memuaskan dan murah, Paket Hunter Cloud Hosting hanya 360.000,- / Tahun.
+Banyak paket promo dengan hosting murah di Indonesia, salah satu yang terbaik menurut saya adalah [Dewaweb](https://client.dewaweb.com/aff.php?aff=26186 "Dewa Web"). Kenapa? karena saya sendiri menggunakan hosting dari dewaweb untuk web saya yang lainnya ([Live CoinTrackers](https://livecointrackers.com) dan [Live Coin Update](https://www.livecoinupdate.com)) dan menurut saya sangat memuaskan dan murah, Paket Hunter Cloud Hosting hanya 360.000,- / Tahun.
 
 Ini adalah investasi yang relatif kecil, namun sangat penting untuk kesuksesan blogging jangka panjang Anda.
 
@@ -59,10 +59,12 @@ Dewaweb memiliki kinerja yang baik, mudah digunakan, dan itu benar-benar pilihan
 
 ![Dewaweb]({{ "/img/dewaweb-affiliate-banner-slogan-728x90px.gif" | absolute_url }} "Dewaweb")
 
-Selain itu, Dewaweb adalah salah satu dari beberapa web host yang sekarang menawarkan Sertifikat SSL Gratis. Ini tidak hanya menambah kepercayaan dengan Google, tetapi dengan pengunjung situs Anda juga! 
+Selain itu,  [Dewaweb](https://client.dewaweb.com/aff.php?aff=26186 "Dewa Web") adalah salah satu dari beberapa web host yang sekarang menawarkan Sertifikat SSL Gratis. Ini tidak hanya menambah kepercayaan dengan Google, tetapi dengan pengunjung situs Anda juga! 
 
 Dengan Sertifikat SSL, nama domain Anda akan dimulai dengan HTTPS dan ditampilkan sebagai web yang Aman dengan gembok hijau di samping URL di browser seperti ini: 
 
 ![https]({{ "/img/artipedia-https.png" | absolute_url }} "https")
 
 Pada dasarnya, dengan HTTPS situs web Anda akan terlihat sah dan terpercaya.
+
+Beli Hosting dan Domain di  [dewaweb](https://client.dewaweb.com/aff.php?aff=26186 "Dewa Web")
