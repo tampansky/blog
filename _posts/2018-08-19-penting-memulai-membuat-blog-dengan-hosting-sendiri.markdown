@@ -1,7 +1,7 @@
 ---
 layout: news_item
 comments: true
-title: "Kenapa Harus Memulai Membuat Blog dengan Hosting Sendiri"
+title: "Penting Memulai Membuat Blog dengan Hosting Sendiri"
 description: Memulai membuat blog dengan hosting sendiri mengekspresikan diri Anda dengan cara yang unik, membantu orang lain dengan masalah yang Anda atasi, menetapkan diri Anda sebagai seorang ahli, dan bahkan menghasilkan uang.
 date: "2018-08-19 12:48:09"
 image: membuat-blog.jpg
