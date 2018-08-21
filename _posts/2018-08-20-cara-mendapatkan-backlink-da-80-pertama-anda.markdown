@@ -152,7 +152,7 @@ Anda tidak ingin terlihat terlalu membutuhkan, tetapi Anda juga sebaiknya tidak 
 
 Berikut ini adalah contoh yang dapat anda gunakan:
 
-```
+<div class="note">
 Perihal: Situs Anda memiliki tautan mati.
 
 Hai [nama],
@@ -166,7 +166,7 @@ Saya menulis artikel tentang (topik tautan yang tidak aktif), dan saya pikir itu
 Terima kasih atas waktu Anda,
 
 (Nama Anda)
-```
+</div>
 
 Ini adalah salah satu strategi mencari backling berkualitas yang sangat baik untuk dilakukan. 
 Kesimpulan
