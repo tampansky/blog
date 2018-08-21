@@ -124,7 +124,7 @@ Tautan mati mengarah ke laporan yang tidak lagi tersedia.
 
 Hal yang perlu anda perhatikan adalah isi konten yang tidak tersedia tersebut, anda harus memiliki file atau konten tersebut. Bagaimana cara mengetahuinya? Anda bisa mengakses konten lama menggunakan [Archive.org](https://archive.org "archive.org"). Archive.org  adalah alat luar biasa yang memungkinkan Anda untuk melihat halaman web yang tidak ada lagi.
 
-Kenapa kamu mau melakukan ini? Karena Anda dapat melihat dengan tepat konten yang hilang dan menemukan konten yang paling relevan di situs Anda untuk menggantikannya.
+Kenapa anda harus melakukan ini? Karena Anda dapat melihat dengan tepat konten yang hilang dan menemukan konten yang paling relevan di situs Anda untuk menggantikannya.
 
 Ketika Anda memasukkan URL ke dalam kotak di Archive.org, Anda mungkin melihat sesuatu seperti ini:
 
