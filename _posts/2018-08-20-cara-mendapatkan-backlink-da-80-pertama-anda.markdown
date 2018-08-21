@@ -19,17 +19,17 @@ Mendapatkan backlink itu mudah tetapi mendapatkan bakcling berkualitas itu meman
 
 ### Apa itu backling berkualitas?
 
-Backlink berkualitas ditentukan oleh bebearapa metrik, salah satunya adalah _**Domain Autoriy (DA)**_. **<acronym title="Domain Autoriy">DA</acronym>** adalah salah satu metrik yang Dikembangkan oleh Moz, <acronym title="Domain Autoriy">DA</acronym> adalah cerminan dari seberapa populer dan kepercayaan terhadap situs web anda.
+Backlink berkualitas ditentukan oleh bebearapa metrik, salah satunya adalah _**Domain Authority (DA)**_. **<acronym title="Domain Authority">DA</acronym>** adalah salah satu metrik yang Dikembangkan oleh Moz, <acronym title="Domain Autoriy">DA</acronym> adalah cerminan dari seberapa populer dan kepercayaan terhadap situs web anda.
 
 Dapat disimpulkan semakin tinggi DA situs web, maka semakin baik reputasinya.
 
-Meskipun tidak tersirat secara resmi untuk peringkat “baik” atau “buruk” DA, akan tetapi _**Domain Autoriy (DA)**_ diterima secara luas bahwa situs dengan skor 80 atau lebih tinggi berada di situs teratas.
+Meskipun tidak tersirat secara resmi untuk peringkat “baik” atau “buruk” DA, akan tetapi _**Domain Authority (DA)**_ diterima secara luas bahwa situs dengan skor 80 atau lebih tinggi berada di situs teratas.
 
-Jika Anda mendapatkan backlink dari salah satu situs _**Domain Autoriy (DA)**_ tinggi, maka anda akan mendapatkan banyak manfaat.
+Jika Anda mendapatkan backlink dari salah satu situs _**Domain Authority (DA)**_ tinggi, maka anda akan mendapatkan banyak manfaat.
 
 Situs Anda akan naik, SEO Anda akan meningkat, dan Anda akan mendapatkan lebih banyak lalu lintas.
 
-Tetapi mendapatkan tautan balik dari situs dengan _**Domain Autoriy (DA)**_ tinggi jauh lebih mudah diucapkan daripada dilakukan.
+Tetapi mendapatkan tautan balik dari situs dengan _**Domain Authority (DA)**_ tinggi jauh lebih mudah diucapkan daripada dilakukan.
 
 Saya telah mengalami dan melihat orang mencoba untuk mendapatkan tautan balik DA-tinggi, tetapi akhirnya gagal.
 
@@ -37,7 +37,7 @@ Jika Anda belum bisa mendapatkan backlink otoritas, jangan khawatir. Itu bukan a
 
 Banyak orang tidak tahu cara menilai backlink berkualitas, tetapi setelah Anda tahu apa yang harus dilakukan, itu menjadi jauh lebih mudah.
 
-Saya akan membagikan strategi saya untuk mendapatkan tautan dari _**Domain Autoriy (DA)**_ tinggi. Teknik-teknik ini dapat diulang dan terukur, dan Anda dapat menggunakannya tidak peduli seberapa kecil situs Anda.
+Saya akan membagikan strategi saya untuk mendapatkan tautan dari _**Domain Authority (DA)**_ tinggi. Teknik-teknik ini dapat diulang dan terukur, dan Anda dapat menggunakannya tidak peduli seberapa kecil situs Anda.
 
 ## Langkah 1: Menentukan target?
 Sebelum Anda menggunakan salah satu metode ini, Anda perlu menentukan situs mana yang akan dicari.
