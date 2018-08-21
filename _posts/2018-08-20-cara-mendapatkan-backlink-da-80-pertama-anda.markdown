@@ -18,7 +18,6 @@ Salah satu rintangan yang selalu dihadapi oleh kita saat memulai membuat blog ad
 Mendapatkan backlink itu mudah tetapi mendapatkan bakcling berkualitas itu memang sulit.
 
 ### Apa itu backling berkualitas?
-
 Backlink berkualitas ditentukan oleh bebearapa metrik, salah satunya adalah _**Domain Authority (DA)**_. **<acronym title="Domain Authority">DA</acronym>** adalah salah satu metrik yang Dikembangkan oleh Moz, <acronym title="Domain Autoriy">DA</acronym> adalah cerminan dari seberapa populer dan kepercayaan terhadap situs web anda.
 
 Dapat disimpulkan semakin tinggi DA situs web, maka semakin baik reputasinya.
@@ -54,7 +53,7 @@ Umumnya, blog yang muncul di halaman pertama kemungkinan memiliki DA yang tinggi
 
 Buat daftar semua domain di halaman 1 Google. Anda kemudian dapat memeriksa DA mereka menggunakan [Moz Link Explorer](https://analytics.moz.com/pro/link-explorer/overview "Link Ekplorer").
 
-![Moz Link Ekplorer]({{ "/img/moz.png" | absolute_url }} "Moz Link Ekplorer")
+![Moz Link Ekplorer]({{ "/img/moz1.png" | absolute_url }} "Moz Link Ekplorer")
 
 Masukkan URL dan klik "Cari." Pada halaman hasil, Anda dapat melihat peringkat DA situs di sisi kiri kotak pertama:
 
