@@ -96,7 +96,8 @@ Ini bukan strategi yang rumit, dan patut dicoba.
 
 Tertarik? Inilah cara melakukannya.
 
-**Pertama, temukan tautan yang rusak di situs DA tinggi**.  Anda dapat menggunakan Screaming Frog SEO Spider, [unduh](https://www.screamingfrog.co.uk/seo-spider/#download "Unduh") alat ini di sini .
+#### **Pertama, temukan tautan yang rusak di situs DA tinggi**.  
+Anda dapat menggunakan Screaming Frog SEO Spider, [unduh](https://www.screamingfrog.co.uk/seo-spider/#download "Unduh") alat ini di sini .
 
 Selanjutnya, masukkan URL ke dalam kotak di bagian atas alat dan tekan "Mulai."
 
@@ -118,7 +119,7 @@ URL yang terdapat di kolom “from” adalah halaman di situs yang berisi tautan
 
 Contoh tautan rusak pada gambar berasal dari artikel Business Insider ini . Business Insider memiliki DA sebesar 94, menjadikannya kandidat yang sempurna untuk backlink anda.
 
-**Kedua, Meemeriksa isi konten dari tautan yang mati**.
+#### **Kedua, Meemeriksa isi konten dari tautan yang mati**.
 
 ![Gambar Server Error]({{ "/img/servererror.png" | absolute_url }} "Gambar Server Error")
 
@@ -148,7 +149,9 @@ Sekarang Anda dapat melihat isi konten secara langsung dan menganalisisnya.
 
 Jika Anda memiliki konten yang terkait dengan topik ini, maka Anda memiliki peluang tinggi untuk mendapatkan backlink. Jika tidak maka buatlah konten tersebut seoptimal mungkin.
 
-**Terakhir, beri tahu situs tentang tautan yang rusak**.  Ingat dalam memberitahu pemilik website harus dengan kata-kata yang baik dan tidak memaksa, jangan juga anda terlihat terlalu membutuhkan backlink, tetapi Anda juga sebaiknya tidak bertele-tele. Yang terbaik adalah bersikap sopan dan langsung.
+#### **Terakhir, beri tahu situs tentang tautan yang rusak**.  
+
+Ingat dalam memberitahu pemilik website harus dengan kata-kata yang baik dan tidak memaksa, serta jangan juga anda terlihat terlalu membutuhkan backlink, tetapi Anda juga sebaiknya tidak bertele-tele. Yang terbaik adalah bersikap sopan dan langsung.
 
 Berikut ini adalah contoh yang dapat anda gunakan:
 
