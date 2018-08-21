@@ -47,8 +47,6 @@ Saya sarankan mulai dengan mendapatkan rasa situs mana di niche Anda yang paling
 
 Gunakanlah pencarian Google. Mulailah dengan mencari kata kunci yang menjadi fokus Anda.
 
-![Contoh Pencarian]({{ "/img/googlesearch.png" | absolute_url }} "Contoh Pencarian")
-
 Umumnya, blog yang muncul di halaman pertama kemungkinan memiliki DA yang tinggi. Mungkin itu tidak selalu benar, tetapi sebagian besar memang benar.
 
 Buat daftar semua domain di halaman 1 Google. Anda kemudian dapat memeriksa DA mereka menggunakan [Moz Link Explorer](https://analytics.moz.com/pro/link-explorer/overview "Link Ekplorer").
