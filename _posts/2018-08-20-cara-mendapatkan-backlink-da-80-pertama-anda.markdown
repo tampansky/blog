@@ -13,9 +13,9 @@ categories: [dasar,tutorial,tips,seo]
 
 
 
-Salah satu rintangan yang selalu dihadapi oleh kita saat memulai membuat blog adalah membuat konten unik serta membangun strategi mencari backlink berkualitas.
+Salah satu rintangan yang selalu dihadapi oleh kita saat memulai membuat blog adalah membuat konten unik serta membangun [strategi mencari backlink berkualitas](https://blog.artipedia.site/id/cara-mendapatkan-backlink-da-80-pertama-anda.html "strategi mencari backlink berkualitas").
 
-Mendapatkan backlink itu mudah tetapi mendapatkan bakcling berkualitas itu memang sulit.
+Mendapatkan backlink itu mudah tetapi mendapatkan bakclink berkualitas itu memang sulit.
 
 ### Apa itu backling berkualitas?
 Backlink berkualitas ditentukan oleh bebearapa metrik, salah satunya adalah _**Domain Authority (DA)**_. **<acronym title="Domain Authority">DA</acronym>** adalah salah satu metrik yang Dikembangkan oleh Moz, <acronym title="Domain Autoriy">DA</acronym> adalah cerminan dari seberapa populer dan kepercayaan terhadap situs web anda.
