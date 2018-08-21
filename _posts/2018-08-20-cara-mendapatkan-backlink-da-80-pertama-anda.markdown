@@ -116,13 +116,15 @@ Anda akan melihat daftar semua tautan mati di laman atau situs tersebut dan untu
 
 URL yang terdapat di kolom “from” adalah halaman di situs yang berisi tautan yang rusak. Itulah URL yang akan Anda rujuk ketika menghubungi situs.
 
-Contoh tautan rusak pada gambar berasal dari artikel Business Insider ini . Business Insider memiliki DA sebesar 94, menjadikannya kandidat yang sempurna untuk backlink fantastis.
+Contoh tautan rusak pada gambar berasal dari artikel Business Insider ini . Business Insider memiliki DA sebesar 94, menjadikannya kandidat yang sempurna untuk backlink anda.
 
-Tautan mati mengarah ke laporan yang tidak lagi tersedia.
+**Kedua, Meemeriksa isi konten dari tautan yang mati**.
 
 ![Gambar Server Error]({{ "/img/servererror.png" | absolute_url }} "Gambar Server Error")
 
-Hal yang perlu anda perhatikan adalah isi konten yang tidak tersedia tersebut, anda harus memiliki file atau konten tersebut. Bagaimana cara mengetahuinya? Anda bisa mengakses konten lama menggunakan [Archive.org](https://archive.org "archive.org"). Archive.org  adalah alat luar biasa yang memungkinkan Anda untuk melihat halaman web yang tidak ada lagi.
+Hal yang perlu anda perhatikan adalah isi konten yang tidak tersedia tersebut, anda harus memiliki file atau konten tersebut. Bagaimana cara mengetahuinya? Anda bisa mengakses konten lama menggunakan [Archive.org](https://archive.org "archive.org"). 
+
+Archive.org  adalah alat luar biasa yang memungkinkan Anda untuk melihat halaman web yang tidak ada lagi.
 
 Kenapa anda harus melakukan ini? Karena Anda dapat melihat dengan tepat konten yang hilang dan menemukan konten yang paling relevan di situs Anda untuk menggantikannya.
 
@@ -146,9 +148,7 @@ Sekarang Anda dapat melihat isi konten secara langsung dan menganalisisnya.
 
 Jika Anda memiliki konten yang terkait dengan topik ini, maka Anda memiliki peluang tinggi untuk mendapatkan backlink. Jika tidak maka buatlah konten tersebut seoptimal mungkin.
 
-Terakhir, beri tahu situs tentang tautan yang rusak.  Ini adalah ketika Anda masuk dan meminta backlink.
-
-Anda tidak ingin terlihat terlalu membutuhkan, tetapi Anda juga sebaiknya tidak bertele-tele. Yang terbaik adalah bersikap sopan dan langsung.
+**Terakhir, beri tahu situs tentang tautan yang rusak**.  Ingat dalam memberitahu pemilik website harus dengan kata-kata yang baik dan tidak memaksa, jangan juga anda terlihat terlalu membutuhkan backlink, tetapi Anda juga sebaiknya tidak bertele-tele. Yang terbaik adalah bersikap sopan dan langsung.
 
 Berikut ini adalah contoh yang dapat anda gunakan:
 
