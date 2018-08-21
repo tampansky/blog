@@ -6,7 +6,7 @@ description: Cara Mendapatkan Backlink DA 80+ Pertama Anda, diperlukan strategi 
 date: "2018-08-20 12:48:09"
 image: backlink.jpg
 author: artipedia
-categories: [dasar,tutorial,tips]
+categories: [dasar,tutorial,tips,seo]
 ---
 * TOC
 {:toc}
