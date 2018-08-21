@@ -169,7 +169,9 @@ Terima kasih atas waktu Anda,
 </div>
 
 Ini adalah salah satu strategi mencari backling berkualitas yang sangat baik untuk dilakukan. 
-Kesimpulan
+
+Kesimpulan Bagian 1
+
 1. Mencari Situs/Web yang memiliki DA tinggi
 2. Mencari Link yang tidak aktif pada situs tersebut
 3. Memperbaiki atau membuat konten di situs anda yang sesuai dengan isi dari konten link yang tidak aktif pada situs yang dimaksud
