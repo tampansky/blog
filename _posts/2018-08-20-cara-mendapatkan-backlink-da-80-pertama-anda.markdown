@@ -154,17 +154,17 @@ Berikut ini adalah contoh yang dapat anda gunakan:
 
 <div class="note info">
 <strong>Perihal: Situs Anda memiliki tautan mati.</strong>
-<br>
+<br><br>
 Hai [nama],
-<br>
+<br><br>
 Saya mengunjungi situs Anda baru-baru ini dan menemukan halaman ini di situs Anda: (URL halaman).
-<br>
+<br><br>
 Ini halaman yang bagus, tapi saya menemukan tautan mati di sana. Tautan mengarah ke (URL halaman), yang tidak lagi aktif.
-<br>
+<br><br>
 Saya menulis artikel tentang (topik tautan yang tidak aktif), dan saya pikir itu akan sangat cocok untuk halaman Anda. Saya sangat menghargai jika Anda mempertimbangkan untuk mengganti tautan mati dengan tautan ke artikel saya. Saya tahu pembaca Anda akan menyukainya, dan saya akan senang membantu Anda.
-<br>
+<br><br>
 Terima kasih atas waktu Anda,
-<br>
+<br><br><br>
 (Nama Anda)
 </div>
 
