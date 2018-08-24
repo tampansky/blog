@@ -4,7 +4,7 @@ comments: true
 title: "Membuat Widget Artikel Terkait di Blog Jekyll"
 description: Membuat Widget Artikel Terkait/related post di Blog Jekyll / Github Pages dengan langkah-langkah mudah.
 image: artikel-terkait-jekyll-page4.png
-date: "2018-18-24"
+date: 2018-08-24 11:30:00 +0800
 author: artipedia
 categories: [widget,tutorial,blog]
 ---
