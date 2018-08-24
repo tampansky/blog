@@ -24,7 +24,9 @@ Langkah-langkah membuatnya terdiri dari beberapa tahap:
 ![Membuat file baru]({{ "/img/artikel-terkait-jekyll-page.png" | absolute_url }} "Membuat file baru")
 
 Kesatu: Cari folder bernama `_include` kemudian klik
+
 Kedua: Klik _create new file_
+
 Ketiga: Beri nama file tersebut dengan `artikel-terkait.html`
 
 ![Menamai file]({{ "/img/artikel-terkait-jekyll-page2.png" | absolute_url }} "Menamai file")
@@ -85,12 +87,17 @@ Keempat Copy dan pastekan kedo dibawah ini dan simpan (commit)
 {% endraw %}
 
 #### Langkah Kedua : Menambahkan kode 
+
 ```
 {% include recent.html %}
 ```
+
 Kesatu: Cari Folder `_layout` 
+
 Kedua: Cari dan buka file `post.html` (layout halaman posting)
+
 Ketiga: Copy dan pastekan kode 
+
 ```
 {% include recent.html %}
 ```
@@ -99,6 +106,7 @@ Keempat: Simpan (commit)
 
 #### Langkah Ketiga : Menambahkan `CSS`
 Copy dan Pastekan Code CSS di bawah pada file css template anda!
+
 ```css
 .recent {
   padding: 20px 40px 30px
