@@ -27,7 +27,7 @@ Langkah-langkah membuatnya terdiri dari beberapa tahap:
 2. Klik _create new file_
 3. Beri nama file tersebut dengan `artikel-terkait.html`
 
-![Menamai file]({{ "/img/artikel-terkait-jekyll-page.png2" | absolute_url }} "Menamai file")
+![Menamai file]({{ "/img/artikel-terkait-jekyll-page2.png" | absolute_url }} "Menamai file")
 
 4. Copy dan pastekan kedo dibawah ini dan simpan (commit)
 
