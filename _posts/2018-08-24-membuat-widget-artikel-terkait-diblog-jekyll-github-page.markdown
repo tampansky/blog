@@ -106,7 +106,7 @@ Ketiga: Copy dan pastekan kode
 ```
 {% endraw %}
 
-(letakan dibagian dimana anda inging meletakannya)
+(letakan dibagian dimana anda ingin meletakannya)
 Keempat: Simpan (commit)
 
 #### Langkah Ketiga : Menambahkan `CSS`
