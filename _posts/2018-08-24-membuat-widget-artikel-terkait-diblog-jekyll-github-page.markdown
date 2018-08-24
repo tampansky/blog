@@ -33,7 +33,7 @@ Langkah-langkah membuatnya terdiri dari beberapa tahap:
 
 {% raw %}
 ```liquid
-<div class="recent no-print">
+<div class="recent">
 <h4><i class="fa fa-list" aria-hidden="true"></i>  Lihat lainnya</h4>
 {% if page.path contains '_jekyll-themes' %}
  <div class="rect">
