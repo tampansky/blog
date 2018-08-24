@@ -6,9 +6,6 @@
     .vertical-rhythm {
     margin-bottom: 2em;
     line-height: 1.5em;
-    @include media-query(600px) {
-        margin-bottom: 1em;
-    }
     }
 
     .highlighter-rouge & {
