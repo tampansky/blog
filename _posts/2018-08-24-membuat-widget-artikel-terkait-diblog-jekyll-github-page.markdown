@@ -23,13 +23,13 @@ Langkah-langkah membuatnya terdiri dari beberapa tahap:
 
 ![Membuat file baru]({{ "/img/artikel-terkait-jekyll-page.png" | absolute_url }} "Membuat file baru")
 
-1. Cari folder bernama `_include` kemudian klik
-2. Klik _create new file_
-3. Beri nama file tersebut dengan `artikel-terkait.html`
+Kesatu: Cari folder bernama `_include` kemudian klik
+Kedua: Klik _create new file_
+Ketiga: Beri nama file tersebut dengan `artikel-terkait.html`
 
-⋅⋅⋅![Menamai file]({{ "/img/artikel-terkait-jekyll-page2.png" | absolute_url }} "Menamai file")
+![Menamai file]({{ "/img/artikel-terkait-jekyll-page2.png" | absolute_url }} "Menamai file")
 
-4. Copy dan pastekan kedo dibawah ini dan simpan (commit)
+Keempat Copy dan pastekan kedo dibawah ini dan simpan (commit)
 
 {% raw %}
 ```liquid
@@ -88,14 +88,14 @@ Langkah-langkah membuatnya terdiri dari beberapa tahap:
 ```
 {% include recent.html %}
 ```
-1. Cari Folder `_layout` 
-2. Cari dan buka file `post.html` (layout halaman posting)
-3. Copy dan pastekan kode 
+Kesatu: Cari Folder `_layout` 
+Kedua: Cari dan buka file `post.html` (layout halaman posting)
+Ketiga: Copy dan pastekan kode 
 ```
 {% include recent.html %}
 ```
 (letakan dibagian dimana anda inging meletakannya)
-4. Simpan (commit)
+Keempat: Simpan (commit)
 
 #### Langkah Ketiga : Menambahkan `CSS`
 Copy dan Pastekan Code CSS di bawah pada file css template anda!
