@@ -84,10 +84,17 @@ Langkah-langkah membuatnya terdiri dari beberapa tahap:
 ```
 {% endraw %}
 
-#### Langkah Kedua : Menambahkan kode `{% include recent.html %}`
+#### Langkah Kedua : Menambahkan kode 
+```
+{% include recent.html %}
+```
 1. Cari Folder `_layout` 
 2. Cari dan buka file `post.html` (layout halaman posting)
-3. Copy dan pastekan kode `{% include recent.html %}`. (letakan dibagian dimana anda inging meletakannya)
+3. Copy dan pastekan kode 
+```
+{% include recent.html %}
+```
+(letakan dibagian dimana anda inging meletakannya)
 4. Simpan (commit)
 
 #### Langkah Ketiga : Menambahkan `CSS`
