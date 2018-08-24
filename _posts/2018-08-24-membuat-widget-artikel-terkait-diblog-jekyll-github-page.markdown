@@ -14,7 +14,7 @@ categories: [widget,tutorial,blog]
 ### Apa itu Widget Artikel Terkait
 Widget Artikel Terkait (*related-post*) penting bagi sebuah blog. Kenapa? Karena salah satunya dapat menurunkan [bounce rate](https://en.wikipedia.org/wiki/Bounce_rate "Bounce Rate") blog, selain itu dapat mempermudah pengunjung dalam berselancar di blog.
 
-Membuat artikel terkait pada blogspot dan wordpress mungkin anda semua sudah tahu bagaimana caranya. Akan tetapi widget artikel terkait yang akan buat disini adalah widget artikel terkait untuk blog jekyll (blog yang dihosting di Github).
+Membuat artikel terkait pada blogspot dan wordpress mungkin anda semua sudah tahu bagaimana caranya. Akan tetapi widget artikel terkait yang akan buat disini adalah widget artikel terkait untuk [blog jekyll](https://blog.artipedia.site/id/cara-membuat-web-digithub-bagi-pemula.html "Membuat blog di github") (blog yang dihosting di Github).
 
 ### Cara membuat widget artikel terkait di blog Jekyll
 Langkah-langkah membuatnya terdiri dari beberapa tahap:
