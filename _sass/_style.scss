@@ -298,7 +298,7 @@ footer {
   .code {
     display: block;
     padding: 0;
-    font-family: Menlo, Consolas, "Courier New", Courier, "Liberation Mono", monospace;
+    font-family: "SFMono-Regular",Consolas,"Liberation Mono",Menlo,Courier,monospace;
     line-height: 1.3em;
 
     .title {
@@ -733,12 +733,8 @@ code {
   white-space: pre;
   display: inline-block;
   margin: 0;
-  font: 14px/1.8em Menlo, Consolas, "Courier New", Courier, "Liberation Mono", monospace;
+  font: 14px/1.7em "SFMono-Regular",Consolas,"Liberation Mono",Menlo,Courier,monospace;
   padding: 0 0.5em;
-}
-
-@media (min-width: 768px) {
-  pre, code { font-size: 16px; }
 }
 
 .highlight,
@@ -752,7 +748,7 @@ h5 > code,
   background-color: #f6f8fa;
   max-width: 100%;
   overflow-x: auto;
-  font-size:85%;
+  font-size:85% !Important;
   vertical-align: middle;
  border-radius:3px
 }
