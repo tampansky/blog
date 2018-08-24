@@ -88,9 +88,11 @@ Keempat Copy dan pastekan kedo dibawah ini dan simpan (commit)
 
 #### Langkah Kedua : Menambahkan kode 
 
+{% raw %}
 ```
 {% include recent.html %}
 ```
+{% endraw %}
 
 Kesatu: Cari Folder `_layout` 
 
