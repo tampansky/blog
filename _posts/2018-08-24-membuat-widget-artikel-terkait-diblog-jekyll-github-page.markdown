@@ -100,15 +100,19 @@ Kedua: Cari dan buka file `post.html` (layout halaman posting)
 
 Ketiga: Copy dan pastekan kode 
 
+{% raw %}
 ```
 {% include recent.html %}
 ```
+{% endraw %}
+
 (letakan dibagian dimana anda inging meletakannya)
 Keempat: Simpan (commit)
 
 #### Langkah Ketiga : Menambahkan `CSS`
 Copy dan Pastekan Code CSS di bawah pada file css template anda!
 
+{% raw %}
 ```css
 .recent {
   padding: 20px 40px 30px
@@ -170,7 +174,7 @@ Copy dan Pastekan Code CSS di bawah pada file css template anda!
 }
 
 ```
-
+{% endraw %}
 
 
 
