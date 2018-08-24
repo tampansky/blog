@@ -6,7 +6,7 @@
     %vertical-rhythm {
     margin-bottom: 2em;
     line-height: 1.5em;
-    @include media-query($on-palm) {
+    @include media-query(600px) {
         margin-bottom: 1em;
     }
     }
@@ -50,7 +50,7 @@
     .ne    { color: #900; font-weight: bold } // Name.Exception
     .nf    { color: #E24879; font-weight: bold } // Name.Function
     .nn    { color: #555 } // Name.Namespace
-    .nt    { color: $brand-color } // Name.Tag
+    .nt    { color: #3498db } // Name.Tag
     .nv    { color: #008080 } // Name.Variable
     .ow    { font-weight: bold } // Operator.Word
     .w     { color: #bbb } // Text.Whitespace
