@@ -3,7 +3,6 @@ layout: news_item
 comments: true
 title: "Cara Mengecilkan HTML di Blog Jekyll"
 description: Cara Mengecilkan HTML di Blog Jekyll tanpa menggunakan plugin, compress html menggunakan javascript.
-image: artikel-terkait-jekyll-page4.png
 date: 2018-09-10 11:30:00 +0800
 author: artipedia
 categories: [widget,tutorial,blog]
