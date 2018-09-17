@@ -1,7 +1,7 @@
 ---
 ---
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"  xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/">
+<rss xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
 	<channel>
         <webfeeds:logo>{{ site.url }}/img/logo-2x.png</webfeeds:logo>
 	    <atom:link rel="hub" href="//pubsubhubbub.appspot.com"/>
