@@ -4,7 +4,6 @@ comments: true
 title: "15 Tips Menjadi Blogger Sukses di 2018"
 description: 15 Tips Menjadi Blogger Sukses di 2018, hal-hal yang harus diperhatikan dalam memulai blogging dan menjadi blogger yang sukses.
 date: "2018-08-08 12:48:09"
-image: adsense3.png
 author: artipedia
 categories: [tips,blog]
 ---
