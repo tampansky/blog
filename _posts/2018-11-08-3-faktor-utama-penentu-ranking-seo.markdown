@@ -6,7 +6,7 @@ description: 3 Faktor Penentu Ranking Seo, seperti Tautan (Backlink), Konten dan
 date: "2018-11-08 12:48:09"
 image: tiga-faktor-penentu-peringkat-SEO.png
 author: artipedia
-categories: [tips,adsense]
+categories: [tips,SEO]
 ---
 * TOC
 {:toc}
