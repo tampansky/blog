@@ -27,7 +27,7 @@ Google selalu mengupgrade algoritma penelusurannya, jadi tidak ada jaminan bahwa
 
 Menurut saya terdapat tiga faktor utama yang menentukan ranking SEO suatu blog.
 
-### Backlink (Tautan)
+### 1. Backlink (Tautan)
 
 _Backlink_ (Tautan) adalah sinyal peringkat SEO yang penting karena mereka dapat membangun web, meningkatkan peringkat mesin telusur serta popularitas web anda, tiga jenis tautan penting:
 
@@ -41,14 +41,14 @@ Dalam hal tautan keluar (outbound links), sama pentingnya bagi web anda, karena 
 
 Anda juga dapat meningkatkan nilai halaman Anda sendiri dengan menghubungkan konten Anda dengan membuat tautan internal. Menghubungkan posting baru dengan posting lainnya dihalaman anda dengan memperhatikan relevansi konten yang satu dengan yang lainnya.
 
-### Konten
+### 2. Konten
 Konten adalah faktor peringkat utama SEO kedua, dan sama pentingnya dengan tautan. Seperti yang kami katakan, relevansi dan kualitas adalah dua faktor penting untuk peringkat mesin pencari.
 
 Ada beberapa area untuk dioptimalkan di sini. Selain dari kata kunci, penting bagi kita untuk memahami apa yang orang pikirkan ketika mereka mengetikkan istilah pencarian. .
 
 Jadi, tidak ada salahnya memasukkan konten sebagai strategi jangka panjang anda dalam meningkat SEO.
 
-### Pengalaman Pengguna
+### 3. Pengalaman Pengguna
 Terdapat tiga aspek penting dari Pengalaman Pengguna:
 
 1. Rasio klik-tayang - berapa banyak orang yang mengunjungi situs Anda dari entri SERPs
