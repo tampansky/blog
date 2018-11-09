@@ -1,7 +1,7 @@
 ---
-layout: 3 Faktor Penentu Ranking Seo
+layout: news_item
 comments: true
-title: "3 Faktor Penentu Ranking Seo"
+title: "3 Faktor Penentu Peringkat Ranking Seo Blog"
 description: 3 Faktor Penentu Ranking Seo, seperti Tautan (Backlink), Konten dan Pengalaman Pengguna. Memiliki Backlink dan konten berkualitas serta pengalaman pengguna yang seo friendly maka lalulintas organik akan meningkat.
 date: "2018-11-08 12:48:09"
 image: tiga-faktor-penentu-peringkat-SEO.png
