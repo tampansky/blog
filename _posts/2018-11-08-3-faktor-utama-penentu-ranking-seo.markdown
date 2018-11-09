@@ -35,7 +35,7 @@ _Backlink_ (Tautan) adalah sinyal peringkat SEO yang penting karena mereka dapat
 2. **Tautan keluar** - tautan dari laman web Anda ke sumber eksternal
 3. **Tautan internal** - tautan dalam situs Anda ke konten Anda sendiri
 
-Inbound links membantu Google mencari tahu apakah konten Anda relevan atau tidak, jika laman web Anda mendapat tautan dari situs berotoritas tinggi, tautan itu lebih bernilai daripada tautan dari situs berkualitas rendah. Sebaliknya, tautan masuk yang berkualitas rendah dapat merusak peringkat penelusuran Anda.
+Inbound links membantu Google mencari tahu apakah konten Anda relevan atau tidak, jika laman web Anda mendapat tautan dari situs berotoritas tinggi, tautan itu lebih bernilai daripada tautan dari situs berkualitas rendah. Sebaliknya, tautan masuk yang berkualitas rendah dapat merusak peringkat penelusuran Anda. Penting bagi anda untuk [mencari backlink dari situs berkualitas (DA dan PA Tinggi)](https://blog.artipedia.site/id/cara-mendapatkan-backlink-da-80-pertama-anda.html "Cara mendapatkan backling DA 80")
 
 Dalam hal tautan keluar (outbound links), sama pentingnya bagi web anda, karena tautan ke situs lain yang berkualitas dan relevan dengan topik Anda, dapat menunjukkan kepada pengunjung dan Google bahwa Anda membuat konten berkualitas. 
 
