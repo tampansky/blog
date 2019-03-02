@@ -10,9 +10,8 @@ Pasang Iklan dll hub.
 1. WA     : 081234467773
 
 Blog Lainnya :
-1. https://livecointrackers.com
-2. https://elivecoin.com
-3. https://swopcrypto.com
+1. https://www.livecointrackers.com
+2. https://coinsprices.net
 
 Donasi
 BTC: 1BHEfB4F4M7j77mrBELrVnFgSZBnLZEkiu      
