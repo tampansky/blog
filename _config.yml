@@ -14,7 +14,7 @@ collections:
     permalink: "/:collection/:path/"
     output: true
   posts:
-    permalink: "/id/:title.html"
+    permalink: "/:title.html"
     output: true
   tutorials:
     output: true
