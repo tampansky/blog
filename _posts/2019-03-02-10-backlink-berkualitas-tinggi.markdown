@@ -11,7 +11,7 @@ categories: [tips,SEO,backlink]
 * TOC
 {:toc}
 
-## Apa itu Backlink
+## Backlink
 Mesin pencari seperti Google masih menggunakan backlink sebagai salah satu metrik utama untuk menghitung peringkat halaman situs Anda. Jika Anda ingin peringkat lebih tinggi, Anda perlu backlink yang lebih baik.
 
 Meskipun memakan waktu, Anda dapat membuat posting tamu di situs web otoritas domain tinggi (DA). Anda bahkan dapat menggunakan metode blackhat, seperti membayar untuk backlink DA tinggi .
