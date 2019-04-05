@@ -23,7 +23,7 @@ Sekarang ini *cryptocurrency* (**mata uang digital**) yang ada lebih dari 1000. 
 
 ### Pemasangan Widget Cryptocurrency
 
-Langkah 1: Buka situs web [LiveCoinTracker.com](https://livecointrackers.com/en/cryptocurrency-widgets "Widget Cryptocurreny"). di Situs web tersebut anda dapat melihat terdapat tiga pilihan widget.
+Langkah 1: Buka situs web [Widget Cryptocurreny](https://wwww.livecointrackers.com/en/cryptocurrency-widgets "Widget Cryptocurreny"). di Situs web tersebut anda dapat melihat terdapat tiga pilihan widget.
 1. Ticker (menampilkan 10 jenis mata uang digital)
 2. Single Coin Ticker (menampilkan salah satu jenis mata uang digital sesuai dengan pilihan anda)
 3. Dominance Chart (menampilkan mata uang digital yang paling dominan)
@@ -38,7 +38,7 @@ langkah 4: Pastekan code di blog sobat
 ### Contoh
 1. Widget Ticker
 <p>
-<iframe src="https://livecointrackers.com/en/widget/ticker?hcolor=000000&tcolor=ffffff" style="width: 100%; overflow: hidden;scroll-behavior: unset;height: 525px;border: unset;"></iframe></p>
+<iframe src="https://www.livecointrackers.com/en/widget/ticker?hcolor=000000&tcolor=ffffff" style="width: 100%; overflow: hidden;scroll-behavior: unset;height: 525px;border: unset;"></iframe></p>
 ```
 <iframe src="https://livecointrackers.com/en/widget/ticker?hcolor=000000&tcolor=ffffff" style="width: 100%; overflow: hidden;scroll-behavior: unset;height: 525px;border: unset;"></iframe>
 ```
@@ -58,7 +58,7 @@ langkah 4: Pastekan code di blog sobat
 ```
 <iframe src="https://www.livecointrackers.com/en/widget/dominance-chart" style="width: 100%; overflow: hidden;scroll-behavior: unset;height: 400px;border: unset;"></iframe>
 ```
-4. Topcoin Animation
+4. Ticker Animation
 <p>
 <iframe src="https://www.livecointrackers.com/en/widget/topcoin?hcolor=fff&tcolor=222" style="width: 100%;"></iframe>
 
