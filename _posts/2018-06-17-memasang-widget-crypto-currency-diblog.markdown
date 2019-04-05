@@ -27,6 +27,7 @@ Langkah 1: Buka situs web [LiveCoinTracker.com](https://livecointrackers.com/en/
 1. Ticker (menampilkan 10 jenis mata uang digital)
 2. Single Coin Ticker (menampilkan salah satu jenis mata uang digital sesuai dengan pilihan anda)
 3. Dominance Chart (menampilkan mata uang digital yang paling dominan)
+4. Ticker Animation (menampilkan deretan mata uang digital berjalan)
 
 Langkah 2: Silahkan anda pilih jenis widget yang ingin anda tampilkan.
 
@@ -43,21 +44,26 @@ langkah 4: Pastekan code di blog sobat
 ```
 
 2. Widget Single Coin Ticker
-<p><iframe src="https://livecointrackers.com/en/widget/ticker/BTC?hcolor=000000&tcolor=ffffff" style="width: 100%; overflow: hidden;scroll-behavior: unset;height: 180px;"></iframe>
+<p><iframe src="https://www.livecointrackers.com/en/widget/ticker/BTC?hcolor=000000&tcolor=ffffff" style="width: 100%; overflow: hidden;scroll-behavior: unset;height: 180px;"></iframe>
 </p>
 ```
-<iframe src="https://livecointrackers.com/en/widget/ticker/BTC?hcolor=000000&tcolor=ffffff" style="width: 100%; overflow: hidden;scroll-behavior: unset;height: 180px;border: unset;"></iframe>
+<iframe src="https://www.livecointrackers.com/en/widget/ticker/BTC?hcolor=000000&tcolor=ffffff" style="width: 100%; overflow: hidden;scroll-behavior: unset;height: 180px;border: unset;"></iframe>
 ```
 
 3. Dominance Chart
 <p>
-<iframe src="https://livecointrackers.com/en/widget/dominance-chart" style="width: 100%; overflow: hidden;scroll-behavior: unset;height: 400px;border: unset;"></iframe>
+<iframe src="https://www.livecointrackers.com/en/widget/dominance-chart" style="width: 100%; overflow: hidden;scroll-behavior: unset;height: 400px;border: unset;"></iframe>
 
 </p>  
 ```
-<iframe src="https://livecointrackers.com/en/widget/dominance-chart" style="width: 100%; overflow: hidden;scroll-behavior: unset;height: 400px;border: unset;"></iframe>
+<iframe src="https://www.livecointrackers.com/en/widget/dominance-chart" style="width: 100%; overflow: hidden;scroll-behavior: unset;height: 400px;border: unset;"></iframe>
 ```
+4. Topcoin Animation
+<p>
+<iframe src="https://www.livecointrackers.com/en/widget/topcoin?hcolor=fff&tcolor=222" style="width: 100%;"></iframe>
 
-<p></p><p></p>
-
+</p>  
+```
+<iframe src="https://www.livecointrackers.com/en/widget/topcoin?hcolor=fff&tcolor=222" style="width: 100%;"></iframe>
+```
 
