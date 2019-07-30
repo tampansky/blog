@@ -169,6 +169,6 @@ atau anda bisa menggunakan kode di bawah ini
 ```
 
 ## Opsi Pengaturan lainnya
-Seperti yang saya katakan sebelumnya, di situs resmi particle.js anda dapat mengubah/membuat pengaturan sendiri dan mengunduhnya dan menghasilkan file json pengaturan particle.js yang akan diterapkan pada blog anda seperti:  memilih tipe partikel. Anda dapat memilih dari Default, NASA, Bubble, Snow, Nyan Cat, mengatur sejumlah opsi untuk nomor, warna, bentuk, ukuran, dll. 
+SALAH INI GOBLOK
 
 
